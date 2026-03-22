@@ -1,2 +1,3 @@
 # MyOS
-My docker image.
+BaseOS: Debian
+GUI: GNOME
